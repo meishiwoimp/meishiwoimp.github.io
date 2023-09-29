@@ -17,7 +17,7 @@ I am  majoring in **Information and Communication Engineering** at UESTC. Curren
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
 - **Sep 2017 - June 2021:** University of electronic science and technology in China (bachelor's degree)
-- **Sep 2021 - May 2024:** niversity of electronic science and technology in China (post graduate student)
+- **Sep 2021 - May 2024:** University of electronic science and technology in China (post graduate student)
 
 <br>
 
@@ -34,3 +34,4 @@ My current research direction is error correction coding. During my graduate stu
 <br>
 
 ---
+
